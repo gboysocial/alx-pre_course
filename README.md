@@ -1,2 +1,2 @@
 My first readme
-I love coding 4
+I love coding
